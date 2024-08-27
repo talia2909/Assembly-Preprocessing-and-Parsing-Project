@@ -33,7 +33,7 @@ After compiling, you can run the program by providing an assembly language file 
 ### Example Usage:
 
 ```bash
-./pre_assembler1 input_file.asm
+./pre_assembler input_file.as
 ```
 
 The program will output an intermediate file, ready for further stages in the assembly process.
